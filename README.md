@@ -7,11 +7,10 @@ Highly accurate digital clock with time synchronization using GPS signals. Achie
 - adjustable display brightness
 - two fonts to choose from
 - rotary encoder for menu navigation
-- possibility of setting an alarm, timer and stopwatchSMA na uFL/u.FL/IPX/IPEX
+- time and temperature display, alarm, timer and stopwatch
 - speaker to sound the alarm
 - RTC backup in case of weak GPS signal
-- temperature display every 15 seconds
-- memory of settings in case of power failure
+- settings are storred in case of power failure
 
 ## Hardware requirements
 - Arduino-based board (Dasduino CORE)
